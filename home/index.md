@@ -2,7 +2,7 @@
 layout: recipeshome
 title: Filipino Comfort Food
 permalink: "/"
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/streetfood.jpg
 published: true
 ---
 
