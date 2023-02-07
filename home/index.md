@@ -1,6 +1,6 @@
 ---
 layout: recipeshome
-title: Here is the name of your recipe site
+title: Filipino Comfort Food
 permalink: "/"
 coverimage: ../uploads/bookcover.jpg
 published: true
