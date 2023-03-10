@@ -30,7 +30,8 @@ h2 {
 }
 
 .cover {
- height: 450px;
+ padding: 5px;
+ height: 550px;
 }
 
 h1,h2 {
@@ -64,7 +65,7 @@ ul {
 }
 
 .rep_but {
- margin-left: 20px;
+  margin-left: 20px;
   border-radius: 10px;
   border-style: outset;
   height: 25px;
