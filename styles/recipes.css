@@ -68,6 +68,11 @@ li {
   font-size: .8em;
   margin-bottom: 12px;
   list-style-position: inside;
+  border-radius: 10px;
+  border-style: outset;
+  height: 25px;
+  width: 25px;
+  background-color: white;
 }
 
 .caption {
