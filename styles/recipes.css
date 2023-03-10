@@ -32,7 +32,8 @@ h2 {
 
 .cover {
  padding: 5px;
- height: 510px;
+ height: 500px;
+ 
 }
 
 h1,h2 {
@@ -41,18 +42,20 @@ h1,h2 {
 p {
   color: #594545;
   margin-bottom: 1em;
+  border: 1px dotted black;
 }
 
 main {
  
 width: 60%;
 max-width: 800px;
-/* border: 1px solid gray; */
+border: 1px solid gray;
 padding: 0 24px;
 margin: 0 auto;
 background-color: #FAF7F0;
 border-radius: 40px;
 animation: fadeIn 2s;
+box-shadow: 5px 10px;
  
 }
 
