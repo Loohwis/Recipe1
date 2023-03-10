@@ -9,7 +9,7 @@
     {%- if page.layout == "recipeshome" -%}
     {%- if page.coverimage -%}
       <div class="home">
-        <a class="rep_but" title="see a list of all recipes" href="/recipelist">
+        <a title="see a list of all recipes" href="/recipelist">
         <img class="cover" src="{{ page.coverimage | relative_url }}" alt="{{ home_page[0].title }}" />
         </a>
       </div>
@@ -17,7 +17,7 @@
     {%- endif -%}
       {{ content | replace: "../uploads", "/uploads" }}
       {%- if page.layout == "recipeshome" -%}
-      <button><a title="see a list of all recipes" href="/recipelist">see a list of all recipes</a></button>
+      <button><a class="rep_but" title="see a list of all recipes" href="/recipelist">see a list of all recipes</a></button>
       {%- endif -%}
     </main>
 
