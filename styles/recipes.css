@@ -21,7 +21,7 @@ h1 {
   color: #9F8772;
   margin-bottom: 12px;
   text-align: center;
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Fredoka One';
 }
 
 h2 {
@@ -34,7 +34,6 @@ h2 {
 }
 
 h1,h2 {
-  font-family: 'Fredoka One', cursive;
 }
 
 p {
