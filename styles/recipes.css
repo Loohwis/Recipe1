@@ -81,11 +81,11 @@ ul {
 }
 
 .rep_but {
-  border-radius: 5px;
+  border-radius: 3px;
   border-style: inset;
-  border-color: #D0B8A8;
+  border-color: #FAF7F0;
   height: 30px;
-  width: 150px;
+  width: 180px;
 }
 
 li {
