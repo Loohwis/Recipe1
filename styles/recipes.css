@@ -29,7 +29,7 @@ h2 {
 }
 
 h1,h2 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Fredoka One', cursive;
 }
 
 p {
@@ -55,6 +55,8 @@ img {
 
 ul {
   margin-left: 20px;
+  border-radius: 10px;
+  border-style: outset;
   /* columns: 2; */
   /* column-rule: 1px solid blue; */
 }
