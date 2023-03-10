@@ -31,7 +31,8 @@ h2 {
 }
 
 .cover {
- padding: 10px;
+ margin-top: 10px;
+ padding: 8x;
  height: 500px;
  border: 2px dotted black;
 }
