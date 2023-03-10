@@ -77,10 +77,11 @@ ul {
 
 .rep_but {
   margin-left: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   border-style: outset;
+  border-color: #D0B8A8;
   height: 25px;
-  width: 25px;
+  width: 50px;
   background-color: white;
 }
 
