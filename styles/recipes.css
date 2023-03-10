@@ -33,7 +33,7 @@ h2 {
 .cover {
  padding: 5px;
  height: 500px;
- 
+ border: 1px dotted black;
 }
 
 h1,h2 {
@@ -42,7 +42,6 @@ h1,h2 {
 p {
   color: #594545;
   margin-bottom: 1em;
-  border: 1px dotted black;
 }
 
 main {
