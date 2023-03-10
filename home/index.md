@@ -1,15 +1,13 @@
 ---
-layout: recipeshome
 title: Filipino Comfort Food
-permalink: "/"
-coverimage: ../uploads/streetfood.jpg 
+coverimage: ../uploads/streetfood.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-03-10T17:24:04.926Z
 ---
+W﻿elcome to **Filipino Comfort**, where we celebraet the delicious and comforting flavours of Filipino cuisine. Our goal is to showcase the rich culinary heritage of the Philippines through a collection of traditional and modern recipes that are easy to follow and recreate in your own kitchen.
 
-Here is an introduction to my recipe site
+F﻿ilipino food is known for its bold and complex flavors that come from a unique blend of Spanish, Chinese, Malay, and indigenous influences. From savoury adobo to the sweet and refreshing halo-halo, each dish represents a feeling and story that reflects the diverse cultural landscape of the island.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If you're a Filipino living abroad or simply a lover of food looking to explore new tastes and ingredients, our website offers a variety of recipes, tips, and stories that will pull you into the magic of Philippines.
