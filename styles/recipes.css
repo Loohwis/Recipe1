@@ -58,14 +58,14 @@ padding: 0 24px;
 margin: 0 auto;
 background-color: #FAF7F0;
 border-radius: 40px;
-animation: fadeIn: 3s;
+animation: fadeIn 3s;
  
 }
 
 footer {
 
- color: white;
-
+ font-size: 50px;
+ 
 }
 
 img {
