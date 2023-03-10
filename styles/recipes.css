@@ -59,7 +59,7 @@ ul {
   /* column-rule: 1px solid blue; */
 }
 
-rep_but {
+.rep_but {
  margin-left: 20px;
   border-radius: 10px;
   border-style: outset;
