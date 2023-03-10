@@ -57,6 +57,9 @@ ul {
   margin-left: 20px;
   border-radius: 10px;
   border-style: outset;
+  height: 25px;
+  width: 25px;
+  background-color: white;
   /* columns: 2; */
   /* column-rule: 1px solid blue; */
 }
