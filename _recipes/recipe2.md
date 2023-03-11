@@ -1,5 +1,5 @@
 ---
-title: Any Recipe
+title: Kare-Kare
 date: 2019-10-19
 order: 1
 layout: recipe
