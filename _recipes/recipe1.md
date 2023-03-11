@@ -5,9 +5,9 @@ order: 1
 layout: recipe
 published: true
 ---
-In addition to chicken, other meats such as pork, beef, and seafood can also be cooked in Adobo style. Each region of the Philippines has its own variation of Adobo, with different ingredients and cooking techniques.Overall, Chicken Adobo is a beloved and iconic Filipino dish that showcases the rich and diverse flavors of Filipino cuisine.
+In addition to chicken, other meats such as pork, beef, and seafood can also be cooked in Adobo style. Each region of the Philippines has its own variation of Adobo, with different ingredients and cooking techniques. Overall, Chicken Adobo is a beloved and iconic Filipino dish that showcases the rich and diverse flavors of Filipino cuisine.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+![Chicken Adobo](../uploads/chicken-adobo-recipe-card.webp "Photo by MikhaEats")
 
 
 
@@ -40,4 +40,4 @@ In addition to chicken, other meats such as pork, beef, and seafood can also be 
 7. Season with salt and black pepper to taste.
 8. Garnish with chopped green onions or cilantro and serve hot with steamed rice.
 
-Enjoy the savory and tangy taste of authentic Filipino Chicken Adobo!
+Enjoy the savoury and tangy taste of authentic Filipino Chicken Adobo!
