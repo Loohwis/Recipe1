@@ -9,8 +9,6 @@ In addition to chicken, other meats such as pork, beef, and seafood can also be 
 
 ![Chicken Adobo](../uploads/chicken-adobo-recipe-card.webp "Photo by MikhaEats")
 
-
-
 ## Ingredients
 
 * 1 kg chicken, cut into serving pieces
@@ -38,6 +36,10 @@ In addition to chicken, other meats such as pork, beef, and seafood can also be 
 5. Lower the heat and let it simmer for about 30 to 40 minutes until the chicken is tender and the sauce is reduced.
 6. Add ground cumin, dried oregano, and brown sugar. Mix well and let it simmer for another 10 minutes.
 7. Season with salt and black pepper to taste.
-8. Garnish with chopped green onions or cilantro and serve hot with steamed rice.
+8. Garnish with chopped green onions or cilantro and serve hot with steamed rice.\
+   \
+    ﻿                    Enjoy the savoury and tangy taste of authentic Filipino Chicken Adobo!
 
-Enjoy the savoury and tangy taste of authentic Filipino Chicken Adobo!
+
+
+\    the savoury and tangy taste of authentic Filipino Chicken Adobo!
