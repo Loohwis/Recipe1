@@ -1,32 +1,41 @@
 ---
-layout: recipe
 title: Any Recipe
 date: 2019-10-19
-published: true
 order: 1
+layout: recipe
+published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kare-Kare has a unique flavour profile, combining the sweetness of the peanut sauce with the savoury flavours of the meat and vegetables. Its thick and creamy consistency, along with the addition of bagoong, adds an umami depth of flavour                   
+
+Kare-Kare is a dish that embodies the Philippines' culinary diversity, as it combines indigenous ingredients such as peanuts with Spanish and Chinese cooking techniques. It is also a dish that represents Filipino ingenuity, as it was originally made with oxtail, an inexpensive cut of meat that was transformed into a flavourful and nutritious dish through slow-cooking and the addition of flavourful ingredients.
+
+![Kare-Kare](../uploads/maxresdefault.jpg "Photo by Kusinela")
 
 ## Ingredients
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* 1 kg beef oxtail, cut into 2-inch pieces
+* 1/2 cup peanut butter
+* 2 tablespoons annatto seeds
+* 2 tablespoons vegetable oil
+* 1 large onion, chopped
+* 4 cloves garlic, minced
+* 8 cups water
+* 2 eggplants, sliced
+* 1 bundle string beans, cut into 2-inch pieces
+* 2 banana blossoms, sliced
+* 1 tablespoon fish sauce
+* Salt and pepper, to taste
+* Bagoong (shrimp paste), for serving
+* Steamed rice, for serving
 
 ## Method
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
-
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
-
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
-
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-- Serves 10
-- Cooking time 3 hours 
+1. In a large pot, boil the beef tripe and oxtail in water until tender. Drain and set aside.
+2. In a separate pan, heat the vegetable oil and sauté the onions and garlic until fragrant.
+3. Add the boiled tripe and oxtail to the pan and stir.
+4. Add 8 cups of water and bring to a boil.
+5. Add the annatto seeds and let simmer for 10 minutes to extract the color.
+6. Remove the annatto seeds and add the peanut butter. Stir until well combined.
+7. Add the sliced eggplants, string beans, and banana blossoms. Let simmer until the vegetables are cooked.
+8. Add fish sauce, salt, and pepper to taste.
+9. Serve hot with bagoong on the side and steamed rice.
