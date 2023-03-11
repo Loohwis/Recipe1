@@ -6,7 +6,7 @@ layout: recipe
 ---
 Sisig has cultural relevance in the Philippines and is often served during social gatherings and celebrations. It originated in the Pampanga region of the country, where it was first created by local cooks as a way to use up leftover parts of the pig. In recent years, Sisig has gained widespread popularity both in the Philippines and abroad, with many restaurants and food vendors offering their own unique takes on the dish.
 
-![Sisig](../uploads/maxresdefault-1-.jpg "Photo by FoxyFolksy ")
+![Sisig](../uploads/sizzling-sisig.jpg "Photo by FoxyFolksy ")
 
 **Ingredients:**
 
