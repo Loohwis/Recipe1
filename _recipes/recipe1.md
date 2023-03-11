@@ -1,46 +1,43 @@
 ---
-layout: recipe
-title: Some recipe
+title: Chicken Adobo
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+In addition to chicken, other meats such as pork, beef, and seafood can also be cooked in Adobo style. Each region of the Philippines has its own variation of Adobo, with different ingredients and cooking techniques.Overall, Chicken Adobo is a beloved and iconic Filipino dish that showcases the rich and diverse flavors of Filipino cuisine.
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
 
+
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
-
+* 1 kg chicken, cut into serving pieces
+* 160 ml soy sauce
+* ½ large onion, chopped
+* 450 grams white vinegar
+* 1 glass white wine
+* 350 grams garlic, minced
+* 1400 grams potatoes, peeled, drained, and chopped into chunks
+* 1 teaspoon ground black pepper
+* 1 teaspoon ground cumin
+* 1 teaspoon dried oregano
+* Salt and black pepper to taste
+* Some chopped green onions or cilantro for garnish
+* 80 grams brown sugar
+* 80 grams cooking oil
+* 600 ml warm water
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+1. In a large mixing bowl, marinate chicken with soy sauce and ground black pepper for 30 minutes to 1 hour.
+2. In a pan or pot, heat cooking oil and sauté garlic and onions until fragrant.
+3. Add marinated chicken and cook until browned on all sides.
+4. Pour in white wine, white vinegar, and warm water. Add potatoes and bring to a boil.
+5. Lower the heat and let it simmer for about 30 to 40 minutes until the chicken is tender and the sauce is reduced.
+6. Add ground cumin, dried oregano, and brown sugar. Mix well and let it simmer for another 10 minutes.
+7. Season with salt and black pepper to taste.
+8. Garnish with chopped green onions or cilantro and serve hot with steamed rice.
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
-
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
-
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-- Serves: 6
-- Preparation time: 1 hour
+Enjoy the savory and tangy taste of authentic Filipino Chicken Adobo!
